@@ -1,5 +1,5 @@
 # FFT-in-C
 Fast Fourier transform in C
 
-Referred from :
+Reference :
 https://youtu.be/h7apO7q16V0
